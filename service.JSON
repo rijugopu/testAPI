@@ -1,0 +1,14 @@
+{
+  "services": [
+    {
+      "name": "servicecategory",
+      "items": [
+        "Service Request",
+        "Warranty",
+        "Return"
+      ]
+    }
+  ]
+}
+
+
