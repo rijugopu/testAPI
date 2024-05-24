@@ -3,9 +3,9 @@
     {
       "name": "servicecategory",
       "items": [
-        "Service Request",
-        "Warranty-1",
-        "Return"
+        "Laptop Issue",
+        "Server Issue",
+        "Antivirus Expired"
       ]
     }
   ]
