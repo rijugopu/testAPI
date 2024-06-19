@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "JobCategory",
+      "name": "servicecategory",
       "items": [
         "Battery",
         "Battery Issue",
