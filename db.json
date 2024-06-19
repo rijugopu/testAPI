@@ -1,11 +1,21 @@
 {
   "categories": [
     {
-      "name": "servicecategory",
+      "name": "JobCategory",
       "items": [
-        "Laptop Issue",
-        "Server Issue",
-        "Antivirus Expired"
+        "Battery",
+        "Battery Issue",
+        "Electrical Issue",
+        "Emergency Towing",
+        "Flat Tyre Assistance",
+        "Low Fuel ",
+        "Merchant Amendment Request",
+        "New Application",
+        "New Assistance",
+        "Onboarding Process",
+        "Service Request",
+        "Test",
+        "Tire Puncture"
       ]
     }
   ]
