@@ -9,8 +9,13 @@
         "Emergency Towing",
         "Flat Tyre Assistance",
         "Low Fuel ",
+        "Merchant Amendment",
         "New Application",
-        "New Assistance"
+        "New Assistance",
+        "Onboarding Process",
+        "Service Request",
+        "Test",
+        "Tire Puncture"
       ]
     }
   ]
