@@ -3,7 +3,7 @@
     {
       "name": "servicecategory",
       "items": [
-   "Battery",
+        "Battery",
         "Battery Issue",
         "Electrical Issue",
         "Emergency Towing",
